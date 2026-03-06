@@ -58,6 +58,76 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build modern REST APIs with FastAPI, including CRUD operations, validation, and API documentation.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-03-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Master string manipulation, file I/O operations, and text processing techniques to build practical text utilities.",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-03-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-data-structures",
+      "title": "Data Structures in Python",
+      "description": "Master lists, dictionaries, sets, and tuples to efficiently store and manipulate data in Python.",
+      "path": "assignments/python-data-structures",
+      "dueDate": "2026-03-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-data-visualization",
+      "title": "Python Data Visualization",
+      "description": "Create professional visualizations and interactive dashboards using matplotlib and plotly.",
+      "path": "assignments/python-data-visualization",
+      "dueDate": "2026-03-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-statistics",
+      "title": "Statistics with Python",
+      "description": "Master statistical analysis and data manipulation using pandas and numpy for exploratory data analysis.",
+      "path": "assignments/python-statistics",
+      "dueDate": "2026-03-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
